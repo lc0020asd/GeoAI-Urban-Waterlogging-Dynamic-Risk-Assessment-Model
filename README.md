@@ -39,12 +39,19 @@ The model system consists of three tightly coupled technical modules, each desig
 
 ## Key Functionalities
 ✅ Multi-scenario urban waterlogging hazard dynamic simulation (6 rainfall levels, hourly step)
+
 ✅ Population exposure prediction with building shelter effect correction
+
 ✅ Time-varying facility asset exposure quantification based on sectoral GDP
+
 ✅ Age-gender structured population vulnerability assessment
+
 ✅ Function-flood resistance integrated facility vulnerability evaluation
+
 ✅ Spatiotemporally coordinated comprehensive risk calculation under H-E-V framework
+
 ✅ Geographical detector-based risk influencing factor analysis (single factor + interaction effect)
+
 ✅ Standardized multi-source geospatial data preprocessing pipeline
 
 ## Study Area & Validation
